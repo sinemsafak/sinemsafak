@@ -16,4 +16,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinemsafak&" alt="sinemsafak" /></p>
 
-![snake gif](https://github.com/sinemsafak/sinemsafak/blob/output/github-contribution-grid-snake.gif)
