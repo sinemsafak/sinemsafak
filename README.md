@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sinem Şafak</h1>
-<h3 align="center">A unique mobile app developer from Türkiye</h3>
+<h3 align="center">Mobile Application Developer from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
