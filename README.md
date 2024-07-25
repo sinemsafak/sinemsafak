@@ -1,4 +1,4 @@
-[![MasterHead]([https://dribbble.com/shots/24510832-Dinosaur](https://www.istockphoto.com/tr/foto%C4%9Fraf/data-science-and-big-data-technology-data-scientist-computing-analysing-and-gm1479759169-507644244?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ftr%2Fimages%2Fsearch%2Fkodlama%2F&utm_term=kodlama))
+ [![MasterHead](https://pixabay.com/tr/illustrations/ai-olu%C5%9Fturuldu-kad%C4%B1n-programc%C4%B1-8775234/)
 <h1 align="center">Hi 👋, I'm Sinem Şafak</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
