@@ -1,4 +1,4 @@
- [![MasterHead](https://pixabay.com/tr/illustrations/ai-olu%C5%9Fturuldu-kad%C4%B1n-programc%C4%B1-8775234/)
+ [![MasterHead](https://pixabay.com/tr/illustrations/ai-olu%C5%9Fturuldu-kad%C4%B1n-programc%C4%B1-8775234/)]
 <h1 align="center">Hi 👋, I'm Sinem Şafak</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
