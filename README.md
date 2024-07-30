@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F79347&background=FF8F5F00&center=do%C4%9Fru&vCenter=do%C4%9Fru&repeat=do%C4%9Fru&random=YANLI%C5%9E&width=435&lines=Android+Mobile+Developer+)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm Sinem Şafak</h1>
 <h3 align="center">Mobile Application Developer from Türkiye</h3>
 
