@@ -1,91 +1,94 @@
-<h1 align="center">Hi 👋, I'm Sinem Şafak</h1>
-<!-- <h3 align="center">Mobile Application Developer from Türkiye</h3> -->
+<h1 align="center">Merhaba 👋, Ben Sinem Şafak</h1>
+
+<h3 align="center">📱 Mobil Uygulama Geliştiricisi | Android & Flutter</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F79347&background=FF8F5F00&center=true&vCenter=true&repeat=true&random=YANLI%C5%9E&width=435&lines=Android+Mobile+Developer+" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F79347&center=true&vCenter=true&width=500&lines=Android+Developer;Flutter+Developer;Dart+Developer;Mobil+Uygulama+Geli%C5%9Ftirici" alt="Typing SVG" />
+</p>
+
+---
+
+## 👩‍💻 Hakkımda
+
+Mobil uygulama geliştirme alanında kendimi geliştiren bir geliştiriciyim.
+Özellikle **Android, Flutter ve Dart** teknolojileriyle ilgileniyorum.
+
+Yeni teknolojiler öğrenmeyi, projeler geliştirmeyi ve öğrendiklerimi uygulayarak deneyim kazanmayı seviyorum.
+
+---
+
+## 🛠️ Teknolojiler ve Araçlar
+
+### 📱 Mobil Geliştirme
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="45" height="45" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Dart"/>
+</p>
+
+### 💻 Programlama Dilleri
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+</p>
+
+### 🗄️ Veritabanı & Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+</p>
+
+### 🤖 Veri Bilimi & Makine Öğrenmesi
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
+
+### 🎨 Tasarım & Geliştirme Araçları
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" height="45" alt="Unity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
+</p>
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sinemsafak&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub İstatistikleri" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinemsafak&layout=compact&theme=radical&hide_border=true" alt="En Çok Kullanılan Diller" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sinemsafak&show_icons=true&locale=en&layout=compact&theme=radical" alt="sinemsafak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sinemsafak&show_icons=true&locale=en&theme=radical" alt="sinemsafak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinemsafak&theme=radical" alt="sinemsafak" />
+  <img src="https://streak-stats.demolab.com?user=sinemsafak&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">Connect with me:</h3>
+---
+
+## 🤝 Benimle İletişime Geç
+
 <p align="center">
-  <a href="https://linkedin.com/in/sinemsafak" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinemşafak" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/sinemsafak">
+    <img src="https://img.shields.io/badge/LinkedIn-Bağlan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:safaksm14@gmail.com">
+    <img src="https://img.shields.io/badge/E--posta-İletişim-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"/>
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+---
+
 <p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
+  <i>✨ Kodluyor, öğreniyor ve geliştiriyorum.</i>
 </p>
-
-- 🔭 Şu anda Dart dilinin temellerinden başlayarak bir depo üzerinde çalışıyorum. [dart_learn](https://github.com/sinemsafak/dart_learn)
-
-- 🌱 Şu anda veritabanı **SQLite** öğreniyorum
-
-- 💬 Bana **Flutter, Dart, Mobile** hakkında sorular sorun
-
-- 📫 Bana nasıl ulaşabilirsiniz **safaksm14@gmail.com**
-
-
-
-
