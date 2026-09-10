@@ -1,75 +1,150 @@
-<h1 align="center">Merhaba 👋, Ben Sinem Şafak</h1>
+<div align="center">
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F79347&center=true&vCenter=true&repeat=true&width=500&lines=Bilgisayar+M%C3%BChendisi;Mobil+Uygulama+Geli%C5%9Ftirici;Flutter+Developer;S%C3%BCrekli+%C3%96%C4%9Freniyorum+%F0%9F%9A%80" />
-</h3>
+# ✦ Sinem Şafak
 
----
+### Software Developer · AI & Computer Vision · Full-Stack Development
 
-## 👩‍💻 Hakkımda
+<br>
 
-Yazılım geliştirmeye odaklanan bir **Bilgisayar Mühendisiyim**.
-Mobil uygulamalar, yapay zeka ve veri analitiği alanlarında projeler geliştiriyorum.
+<a href="mailto:sinemsafak@outlook.com.tr">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/sinemsafak">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sinemsafak/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Yeni teknolojiler öğrenmeyi ve öğrendiklerimi gerçek projelerde kullanmayı seviyorum.
+<br><br>
 
----
-
-## 🚀 Kullandığım Teknolojiler
-
-### 💻 Programlama Dilleri
-
-`C#` • `C++` • `Python`
-
-### 📱 Frontend & Mobil Geliştirme
-
-`Flutter` • `React`
-
-### 🤖 Yapay Zeka & Veri Analitiği
-
-`PyTorch` • `TensorFlow` • `OpenCV`
-`Makine Öğrenmesi` • `Görüntü İşleme`
-
-### ⚙️ Backend
-
-`.NET (Temel)` • `REST API`
-
-### 🗄️ Veritabanları
-
-`SQL Server`
-
-### 🛠️ Araçlar & Teknolojiler
-
-`Git` • `GitHub` • `Figma` • `Google Colab` • `Fusion 360`
+</div>
 
 ---
 
-## 📊 GitHub İstatistikleri
+## `01` — Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinemsafak&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinemsafak&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sinemsafak&theme=tokyonight&hide_border=true"/>
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
 </p>
+
+### AI · Machine Learning · Computer Vision
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+`Machine Learning` · `Computer Vision` · `Image Processing` · `Data Analytics`
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,postman" />
+</p>
+
+`.NET` · `REST API` · `SQL Server`
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,googlecolab" />
+</p>
+
+`Fusion 360`
 
 ---
 
-## 🌐 Bana Ulaş
+## `02` — GitHub Activity
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sinemsafak">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:safaksm14@gmail.com">
-    <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sinemsafak&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinemsafak&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" height="170" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sinemsafak&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
 
 ---
 
-<p align="center">
-  <b>⚡ Kod yazıyorum, öğreniyorum ve sürekli gelişiyorum.</b>
-</p>
+## `03` — Areas of Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### Artificial Intelligence
+
+Machine Learning
+Deep Learning
+Computer Vision
+Image Processing
+Data Analytics
+
+</td>
+<td width="50%">
+
+### Software Development
+
+Full-Stack Development
+REST APIs
+Mobile Applications
+Database Systems
+UI / UX
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — Currently Building
+
+<div align="center">
+
+**Turning ideas into clean, functional and intelligent software.**
+
+<br>
+
+`AI` · `Computer Vision` · `Software Development` · `Mobile` · `Web`
+
+</div>
+
+---
+
+## `05` — Connect
+
+<div align="center">
+
+<a href="mailto:sinemsafak@outlook.com.tr">
+  <img src="https://img.shields.io/badge/Let's%20connect-111111?style=for-the-badge&logo=minutemailer&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/sinemsafak">GitHub</a>
+  ·   <a href="https://linkedin.com/in/sinemsafak/">LinkedIn</a>
+  ·   <a href="mailto:sinemsafak@outlook.com.tr">Email</a>
+
+<br><br>
+
+<sub>Designed with simplicity in mind.</sub>
+
+</div>
